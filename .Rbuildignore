@@ -1,3 +1,7 @@
 ^civitas\.Rproj$
 ^\.Rproj\.user$
 ^CODE_OF_CONDUCT\.md$
+^README\.Rmd$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^docs$
