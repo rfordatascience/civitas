@@ -1,9 +1,11 @@
 Package: civitas
 Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
+Title: Community developed package of miscellaneous functions to support and extend learning opportunties presented in R for Data Science.
 Description: What the package does (one paragraph).
 Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
+URL: https://github.com/rfordatascience/civitas
+BugReports: https://github.com/rfordatascience/civitas/issues
