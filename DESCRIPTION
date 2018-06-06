@@ -2,8 +2,9 @@ Package: civitas
 Version: 0.0.0.9000
 Title: Useful helper functions for the tidyverse, originating from the R4DS community of learners
 Description: Community developed package of miscellaneous functions to support and extend learning opportunties presented in R for Data Science.
-Authors@R: person("Jake", "Kaupp", "jkaupp@gmail.com", c("cre"))
-License: MIT
+Authors@R: person("Jake", "Kaupp", emai  = "jkaupp@gmail.com", role = c("aut", "cre"))
+Maintainer: Jake Kaupp <jkaupp@gmail.com>
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
@@ -12,3 +13,5 @@ RoxygenNote: 6.0.1
 Imports: 
     magrittr,
     rlang (>= 0.1.2)
+Suggests: 
+    testthat
