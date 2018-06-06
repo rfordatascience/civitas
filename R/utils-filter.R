@@ -10,7 +10,5 @@
 #'  filter(mtcars, carb %notin% c(1,3)) }
 #' @export
 `%notin%` <- function(x, table) {
-
   match(x, table, nomatch = 0L) == 0L
-
 }
