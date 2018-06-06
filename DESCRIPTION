@@ -1,15 +1,14 @@
 Package: civitas
 Version: 0.0.0.9000
-Title: Community developed package of miscellaneous functions to support and extend learning opportunties presented in R for Data Science.
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: MIT + file LICENSE
+Title: Useful helper functions for the tidyverse, originating from the R4DS community of learners
+Description: Community developed package of miscellaneous functions to support and extend learning opportunties presented in R for Data Science.
+Authors@R: person("Jake", "Kaupp", "jkaupp@gmail.com", c("cre"))
+License: MIT
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
-URL: https://github.com/rfordatascience/civitas
-BugReports: https://github.com/rfordatascience/civitas/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1
-Suggests: 
-    testthat
+Imports: 
+    magrittr,
+    rlang (>= 0.1.2)
