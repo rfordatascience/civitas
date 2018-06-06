@@ -31,7 +31,7 @@ named branch to submit.  Keep each branch for a complete specific issue.
 
 ## Code style
 
-This package uses `styler` to help acheive a consistent style for the code. Please run `style_pkg()` or the `styler` add-ins on your submission prior to making a pull request.  Additionally, we request that submissions use use snake case (such as `rep_sample_n`) for function names. 
+This package uses `styler` to help acheive a consistent style for the code. Please run `style_pkg()` or the `styler` add-ins on your submission prior to making a pull request.  Additionally, we request that submissions use snake case (such as `rep_sample_n`) for function names. 
 
 ## Code of Conduct
 
